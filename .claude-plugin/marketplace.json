@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "biber-studios",
-      "source": ".",
+      "source": "./",
       "description": "Biber Studios kurucu ortak ve yonetim kurulu. Strateji tartisir, itiraz eder, koleksiyon/urun brief'i uretir, rakip taramasi yapar.",
       "version": "0.1.0",
       "keywords": ["biber-studios", "e-ticaret", "taki", "marka", "co-ceo"]
