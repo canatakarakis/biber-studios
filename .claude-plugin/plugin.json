@@ -1,0 +1,8 @@
+{
+  "name": "biber-studios",
+  "version": "0.1.0",
+  "description": "Biber Studios kurucu ortak ve yonetim kurulu. Strateji tartisir, itiraz eder, koleksiyon/urun brief'i uretir, rakip taramasi yapar. Oneri sunar, karari kurucu verir.",
+  "author": { "name": "Can", "email": "canatakarakis@gmail.com" },
+  "license": "MIT",
+  "keywords": ["biber-studios", "e-ticaret", "taki", "marka", "co-ceo", "ikas"]
+}
