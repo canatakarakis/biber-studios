@@ -1,0 +1,18 @@
+{
+  "name": "biber-studios",
+  "owner": { "name": "Can" },
+  "metadata": {
+    "description": "Biber Studios kurucu ortak ve yonetim kurulu plugin'i",
+    "version": "0.1.0",
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "biber-studios",
+      "source": ".",
+      "description": "Biber Studios kurucu ortak ve yonetim kurulu. Strateji tartisir, itiraz eder, koleksiyon/urun brief'i uretir, rakip taramasi yapar.",
+      "version": "0.1.0",
+      "keywords": ["biber-studios", "e-ticaret", "taki", "marka", "co-ceo"]
+    }
+  ]
+}
